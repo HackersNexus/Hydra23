@@ -67,7 +67,7 @@ try :
       button2 = types.KeyboardButton('/payload')
       keyboard.add(button1)
       keyboard.add(button2)
-      bot.send_message(message.chat.id, "𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙻𝙴𝚇 𝚅𝙴𝚂𝙿𝙾𝚁 ", reply_markup=keyboard)
+      bot.send_message(message.chat.id, "𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 HYDRA23 ", reply_markup=keyboard)
   @bot.message_handler(func=lambda message: True)
   def show_device(message) :
    if message.text == 'conected device' :
