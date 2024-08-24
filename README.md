@@ -1,4 +1,4 @@
 
-![Alt text](images/logo.png)
-\n
+![Alt text](images/logo.png)<br>
+
 [Youtube video](https://google.com)
