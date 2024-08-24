@@ -55,9 +55,9 @@
 <p>bash setup.sh</p>
 <h2>Android Rat</h2>
 <p>1. Decompile the android.apk using apktool m</p>
-<p>2. res/values/strings.xml</p>
+<p>2. open the file res/values/strings.xml</p>
 <p>3. add the database keys </p>
-<p>4. Now compile the code with appt2</p>
+<p>4. Now compile the app with appt2</p>
 <p>5. Sing the apk</p>
 
 
