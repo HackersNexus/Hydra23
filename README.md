@@ -52,6 +52,9 @@
 <p>nano main.py</p>
 <p>add the firebase keys then add the telegram bot token  ctrl+x to save the file</p>
 <p><b>4. Download the requirements</b></p>
+<p>pkg install python</p>
+<p>apt update</p>
+<p>apt upgrade</p>
 <p>bash setup.sh</p>
 <h2>Android Rat</h2>
 <p>1. Decompile the android.apk using apktool m</p>
