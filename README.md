@@ -13,7 +13,7 @@
 <ul>
   <li><a href="https://f-droid.org/repo/com.termux_118.apk"> Termux </a></li>
   <li>apk tool m</li>
-  <li><a href="firebase.google.com">Firebase</a></li>
+  <li><a href="https://firebase.google.com">Firebase</a></li>
   <li>Telegram</li>
 </ul>
 <h1>How to Setup the Payload and Panel</h1>
