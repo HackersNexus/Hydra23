@@ -1,8 +1,10 @@
 
 ![Alt text](images/logo.png)<br>
-![App Screenshot](https://github.com/HackersNexus/Hydra23/blob/main/images/screenshot1.png)
-HYDTA<br>
+<b>HYDTA</b><br>
 <b>Android RAT with telegram bot based panel</b>
+![App Screenshot](https://github.com/HackersNexus/Hydra23/blob/main/images/screenshot1.png)
+
+
 [Youtube video](https://google.com)
 <h1>FEATURES</h1><br>
 
