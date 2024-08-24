@@ -26,3 +26,7 @@ pip install six
 pip install urllib
 pip install wheel
 pip install wrapt
+pip install --upgrade setuptools
+apt update
+apt upgrade
+pip install pyrebase4 
