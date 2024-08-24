@@ -1,11 +1,10 @@
 
 ![Alt text](images/logo.png)<br>
 HYDTA<br>
-<b>Android RAT with telegram bot based panel<b> <br>
+<b>Android RAT with telegram bot based panel</b>
 [Youtube video](https://google.com)
 <h1>FEATURES</h1><br>
-![Alt text](images/screenshot1.png)
-
+![App Screenshot]([images/screenshot1.png](https://github.com/HackersNexus/Hydra23/blob/main/images/screenshot1.png)
 <h2>Requirments</h2>
 <ul>
   <li><a href="https://f-droid.org/repo/com.termux_118.apk"> Termux </a></li>
