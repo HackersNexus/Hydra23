@@ -22,9 +22,9 @@
 <p>2.Enable Firebase Database and Firebase Storage</p>
 <p>3.In Firebase Database Click on the</p>
 <br>
-textview1.setText(Html.fromHtml("<p>    {
+<p>    {
      "rules": {
              ".read": "true",
              ".write": "true"
               }
-    }</p>"));
+    }</p>
