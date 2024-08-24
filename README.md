@@ -34,9 +34,10 @@
 <br>
 <h2>Panel Setup</h2>
 <p></b>1. Glone the github </b></p>
+<p>termux-setup-storage</p>
 <p>cd /sdcard<p>
 <p>pkg install git</p>
-<p>git clone https://github.com/HackersNexus/Hydra</p>
+<p>git clone https://github.com/HackersNexus/Hydra23</p>
 <br>
 <p><b>2. Create a telegram bot</b></p>
 <ul>
