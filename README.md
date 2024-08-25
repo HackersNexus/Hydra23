@@ -49,7 +49,7 @@
   <li>After this, BotFather will generate an API token for your bot. This token is important for interacting with your bot via code.</li>
 </ul>
 <p><b>3. Open the Hydra folder and edit the main.py run setup.sh</b></p>
-<p>cd Hydra</p>
+<p>cd Hydra23</p>
 <p>nano main.py</p>
 <p>add the firebase keys then add the telegram bot token  ctrl+x to save the file</p>
 <p><b>4. Download the requirements</b></p>
